@@ -15,7 +15,7 @@ This is my little corner of the internet. Welcome!
 
 I love bunnies, Classical Music and Remote Sensing (not the spooky kind!).I currently am working on making Greenhouses act like lighthouses for Radar Satellites. It's fun!
 
-I love the sheer amount of things we can do with satellite data.
+I love the sheer amount of things we can do with satellite data. Isn't it awesome that you can detect ground sinking in the order millimeters from a satellite hundreds of kilometers up in the sky?
 
 In this blog, I write my thoughts and opinions on this and many more topics.
 
