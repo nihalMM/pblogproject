@@ -1,23 +1,18 @@
 +++
 author = "Pavithra Raghunathan"
-title = "Shivanahalli Water Sapling Trip"
-date = "2015-01-01"
+categories = ["rotaract", "old-writing"]
+date = 2015-01-01T00:00:00Z
 description = "An old article I wrote during my time in Rotaract BMSCE"
-tags = [
-    "rotaract",
-]
-categories = [
-    "rotaract",
-    "old-writing",
-]
-images  = ["img/2014/04/pic01.jpg"]
-+++
+images = ["/testimg-001.jpg"]
+tags = ["rotaract"]
+title = "Shivanahalli Water Sapling Trip"
 
-*This was an article I Wrote during my time as a volunteer at Rotaract BMSCE.*
++++
+_![](/uploads/testimg-001.jpg)This was an article I Wrote during my time as a volunteer at Rotaract BMSCE._
 
 The long trip to Shivanahalli Ashram, lasted almost 2 hours. Shivanahalli, as the name suggests is a quaint little village, which most deforesters have thankfully not  discovered. The Ashram, run by RAMAKRISHNA MISSION, has grown more than 3000 trees in an area which was barren before they control. The purpose of our visit there was to help the Ashram in their legitimate efforts to make a greener India.
 
-The ashram covering a large area has used most of its land area to plant saplings in the barren areas thereby maintaining a small but fruitful forest. These saplings are envisioned to one day, become a part of the same forest and make a self-sufficient forest ecosystem. 
+The ashram covering a large area has used most of its land area to plant saplings in the barren areas thereby maintaining a small but fruitful forest. These saplings are envisioned to one day, become a part of the same forest and make a self-sufficient forest ecosystem.
 
 Our rotaract team, as a team building exercise, watered as many saplings as we could find. For this, we firstly organized ourselves into 2 human chains stretching from the well/tank to the saplings quarter. We then started passing along pots filled with water to the saplings and empty pots ready to be refilled back. Thereby, efficiently delivering water from the tank to the plants. With this exercise, we not only introduced ourselves to the people around us, but we communicated efficiently with the whole chain. After a while, a competition started between the 2 chains on who could water more number of plants!
 
