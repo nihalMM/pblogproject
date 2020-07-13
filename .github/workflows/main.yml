@@ -9,24 +9,12 @@ jobs:
   deploy:
     runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@master
         with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          submodules: true
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+      - uses: jsumners/gh-action-hugo-deploy@v1.0.0
         with:
-          hugo-version: '0.71.1'
-          extended: true
-
-      - name: Build
-        run: hugo --minify
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-
+          destination_repo: nihalmm/nihalmm.github.io
+          destination_token: ${{ secrets.Deploy_Token }}
 
