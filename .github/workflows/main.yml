@@ -13,11 +13,11 @@ jobs:
         with:
           submodules: true
 
-      - uses: jsumners/gh-action-hugo-deploy@v1.0.0
-        with:
-          destination_repo: nihalMM/nihalmm.github.io
-          destination_token: ${{ secrets.DEPLOY_TOKEN }}
-
-      - name: 🚀 Build and deploy
-        uses: victoriadrake/hugo-latest-cd@master
-
+      - name: Deploy the site
+        uses: benmatselby/hugo-deploy-gh-pages@master
+        env:
+          HUGO_VERSION: 0.71.0
+          TARGET_REPO: nihalmm/nihalmm.github.io
+          TOKEN: ${{ secrets.DEPLOY_TOKEN }}
+          HUGO_EXTENDED: true
+          CNAME: paviraghunathan.com
