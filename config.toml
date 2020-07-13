@@ -26,7 +26,7 @@ disableLanguages        = [""]
 
   [params.meta]
     description         = "Pavithra Raghunathan's corner of the internet"
-    author              = "Pavithra R"
+    author              = "Pavithra Raghunathan"
     favicon             = false
     svg                 = true
     faviconVersion      = "1"
@@ -55,7 +55,7 @@ disableLanguages        = [""]
       alt                 = "Pavithra R"
 
   [params.sidebar]
-    about               = "This site was developed with love, chocolates and a pinch of magic"
+    about               = "This site was developed with love, chocolates and a pinch of magic. You can read more about me in the link below"
     postAmount          = 5
     categories          = true
     categoriesByCount   = true
