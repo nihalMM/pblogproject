@@ -42,7 +42,7 @@ disableLanguages        = [""]
 
   [params.intro]
     header                = "Pavithra Raghunathan"
-    paragraph             = "Welcome to my happy corner of the internet "
+    paragraph             = "Welcome to my happy corner of the internet! You can read some my writing and thoughts here. "
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
