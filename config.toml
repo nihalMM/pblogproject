@@ -55,7 +55,7 @@ disableLanguages        = [""]
       alt                 = "Pavithra R"
 
   [params.sidebar]
-    about               = "This site was developed with love, chocolates and a pinch of magic. You can read more about me in the link below"
+    about               = "This site was developed with love, coffee and a pinch of magic. You can read more about me in the link below"
     postAmount          = 5
     categories          = true
     categoriesByCount   = true
