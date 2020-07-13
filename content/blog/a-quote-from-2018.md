@@ -8,6 +8,4 @@ tags = ["quote"]
 title = "A quote from 2018"
 
 +++
-_![](/uploads/child-dog.jpg)_
-
 _"Why can't all Human beings be like animals" - Me_
