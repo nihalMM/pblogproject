@@ -13,9 +13,7 @@ I'm Pavithra Raghunathan (Pavi).
 
 This is my little corner of the internet. Welcome!
 
-I love bunnies, Classical Music and Remote Sensing (not the spooky kind!)
-
-I currently am working on making Greenhouses act like lighthouses for Radar Satellites. It's fun!
+I love bunnies, Classical Music and Remote Sensing (not the spooky kind!).I currently am working on making Greenhouses act like lighthouses for Radar Satellites. It's fun!
 
 I love the sheer amount of things we can do with satellite data.
 
